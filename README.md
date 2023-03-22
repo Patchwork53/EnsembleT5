@@ -20,6 +20,7 @@ model = EnsembledT5ForConditionalGeneration(model1, model2, num_beams)
 <li> Works on single GPU only </li>
 </ul>
 
-### Demo (Colab)
+### Demo (Colab/Kaggle)
 
 https://colab.research.google.com/drive/1JE5kBpwK5qFY8JDtIX3oVWcwC-_BX74n?usp=sharing
+https://www.kaggle.com/sameen53/ensemblet5-demo
