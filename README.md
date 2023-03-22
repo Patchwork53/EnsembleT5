@@ -1,4 +1,5 @@
-# EnsembleT5
+# EnsembleT5 
+### T5 models from huggingface/transformers
 A simple class override that allows ensembling T5 models from huggingface/transformers during inference. Works with trainer().
 
 
