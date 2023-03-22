@@ -18,3 +18,8 @@ model = EnsembledT5ForConditionalGeneration(model1, model2, num_beams)
 <li> The models must be the same architecture with the same config files. Ideally sister checkpoints. </li>
 <li> Currently tested only for beam_search generation </li>
 <li> Works on single GPU only </li>
+</ul>
+
+### Demo (Colab)
+
+https://colab.research.google.com/drive/1JE5kBpwK5qFY8JDtIX3oVWcwC-_BX74n?usp=sharing
